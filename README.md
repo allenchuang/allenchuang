@@ -18,34 +18,10 @@ I'm a 🏴 software engineer. Currently located in San Francisco, Bay Area.
 
 #### I use
 - ❤️ `Typescript`, 🐍 `snake_case`, 📝 `vim`, 🐧 `Linux`
-- `WebAssembly`, `Python`, `JS`, `Node.js`
-- `CMake`, `LLVM`, `wolfSSL`, `OpenGL`, `SDL`
-- `nginx`
 
 #### Have experience with
-- `C++`, `Rust`, `Java`, `TypeScript`, `PHP`, `Delphi`
-- `Visual Studio`, `Android Studio`, `RAD Studio`
-- `Unreal Engine`, `CLion`, `Catch2`, `raylib`
-- `googletest`, `google/benchmark`, `libcurl`
+- `Rust`, `TypeScript`
+- `Visual Studio`,
 - `Solidity`, `Ride`
 
-#### Working on
-- ♟ [Laplace][laplace-link], lockstep framework for RTS games.
-
-#### Contact me
-- 📜 [Telegram][telegram-link]
-
-#### For tip
-- ⚡ [Bitcoin Lightning](/bitcoin_lightning)
-- `btc` Bitcoin `bc1qau5y9wf49ammclhscuelwlm6370d9lqph6g9um`
-- `btc` Bitcoin (Legacy) `369h9iMSq8ihjYMwdwhbn2ffXMrprHvxav`
-- `xmr` [Monero](/monero)
-
-❄️ I'm also a **witch house** & **dungeon synth** [artist][artist-link].
-
-[pepe-link]:      /horse_ascii.gif
-[laplace-link]:   https://github.com/automainint/laplace
-[telegram-link]:  https://guattari.tech/contact
-[matrix-link]:    https://matrix.to/#/@automainint:matrix.org
-[discord-link]:   https://guattari.tech/discord
-[artist-link]:    https://guattari.tech
+[ascii-link]:      /horse_ascii.gif
