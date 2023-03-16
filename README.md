@@ -4,7 +4,7 @@ I'm a 🏴 software engineer. Currently located in San Francisco, Bay Area.
 
 #### Interested in
 
-<img align="right" src="/pepe.gif" />
+<img align="right" src="/horse_ascii.gif" />
 
 - ⚙️ UI/UX Experience
 - 👨🏻‍💻 Functional programming
@@ -43,7 +43,7 @@ I'm a 🏴 software engineer. Currently located in San Francisco, Bay Area.
 
 ❄️ I'm also a **witch house** & **dungeon synth** [artist][artist-link].
 
-[pepe-link]:      /pepe.gif
+[pepe-link]:      /horse_ascii.gif
 [laplace-link]:   https://github.com/automainint/laplace
 [telegram-link]:  https://guattari.tech/contact
 [matrix-link]:    https://matrix.to/#/@automainint:matrix.org
