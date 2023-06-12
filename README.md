@@ -16,12 +16,4 @@ I'm a 🏴 software engineer. Currently located in San Francisco, Bay Area.
 - 🎶 Music synthesis
 - 👋🏻 Meeting new people
 
-#### I use
-- ❤️ `Typescript`, 🐍 `snake_case`, 📝 `vim`, 🐧 `Linux`
-
-#### Have experience with
-- `Rust`, `TypeScript`
-- `Visual Studio`,
-- `Solidity`, `Ride`
-
 [ascii-link]:      /horse_ascii.gif
