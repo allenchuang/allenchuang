@@ -1,10 +1,10 @@
+<img align="right" src="/horse_ascii.gif" />
+
 ### W e l c o m e ❄️
 
 I'm a 🏴 software engineer. Currently located in San Francisco, Bay Area.
 
 #### Interested in
-
-<img align="right" src="/horse_ascii.gif" />
 
 - ⚙️ UI/UX Experience
 - 👨🏻‍💻 Functional programming
